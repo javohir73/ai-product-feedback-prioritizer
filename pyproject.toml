@@ -1,0 +1,9 @@
+[project]
+name = "ai-product-feedback-prioritizer"
+version = "0.1.0"
+description = "Prioritize AI product feedback into roadmap themes"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+

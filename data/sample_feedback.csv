@@ -1,0 +1,10 @@
+user_id,segment,text,urgency,impact
+u001,teacher,"The AI summary is useful, but export to PDF is missing.",4,5
+u002,admin,"Reports are slow when I filter by class and date.",5,4
+u003,teacher,"I love the lesson suggestions, but the rubric explanation is unclear.",3,4
+u004,student,"The chat answer is helpful and fast for homework practice.",2,3
+u005,teacher,"Exporting reports to PDF would save time for parent meetings.",4,5
+u006,admin,"The dashboard is confusing when there are many school groups.",4,4
+u007,teacher,"Rubric feedback is useful but needs clearer examples.",3,4
+u008,admin,"Filtering reports by date causes an error sometimes.",5,5
+
